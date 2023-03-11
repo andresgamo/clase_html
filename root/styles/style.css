@@ -12,8 +12,10 @@ body{
 
 img{   
     width:500px; 
+    height: 250px;
     border: solid 2px black;
     padding: 20px;
+    margin: 20px;
 }
 
 .inline{
